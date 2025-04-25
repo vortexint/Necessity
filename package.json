@@ -1,10 +1,11 @@
 {
   "name": "necessity",
   "displayName": "Necessity",
+  "icon": "./icons/dark.png",
   "description": "the baddest C++ theme",
   "repository": {"url": "https://github.com/vortexint/Necessity"},
   "publisher": "vxint",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "engines": {
     "vscode": "^1.99.0"
   },
