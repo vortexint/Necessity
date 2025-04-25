@@ -1,0 +1,21 @@
+{
+  "name": "necessity",
+  "displayName": "Necessity",
+  "description": "the baddest VSCode theme, focused on C++",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Necessity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/necessity.json"
+      }
+    ]
+  }
+}
