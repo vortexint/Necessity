@@ -164,7 +164,7 @@
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
-      "settings": { "foreground": "#848484", "fontStyle": "italic" }
+      "settings": { "foreground": "#959595", "fontStyle": "italic" }
     },
     {
       "name": "Strings",
