@@ -20,19 +20,9 @@
         "path": "./themes/necessity.json"
       },
       {
-        "label": "Necessity AAA",
+        "label": "Necessity Light",
         "uiTheme": "vs-dark",
-        "path": "./themes/necessity-aaa.json"
-      },
-      {
-        "label": "Necessity AAA Light",
-        "uiTheme": "vs",
-        "path": "./themes/necessity-aaa-light.json"
-      },
-      {
-        "label": "Necessity Ember",
-        "uiTheme": "vs-dark",
-        "path": "./themes/necessity-ember.json"
+        "path": "./themes/necessity-light.json"
       }
     ]
   }
