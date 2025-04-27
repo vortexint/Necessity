@@ -5,7 +5,7 @@
   "description": "the baddest C++ theme",
   "repository": {"url": "https://github.com/vortexint/Necessity"},
   "publisher": "vxint",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "engines": {
     "vscode": "^1.99.0"
   },
