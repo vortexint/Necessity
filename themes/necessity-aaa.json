@@ -229,7 +229,7 @@
       "name": "Comments",
       "scope": "comment",
       "settings": {
-        "foreground": "#666666",
+        "foreground": "#6e6e6e",
         "fontStyle": "italic"
       }
     },
@@ -243,7 +243,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#adf195"
+        "foreground": "#a3d99b"
       }
     },
     {
@@ -255,7 +255,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#d4a574"
       }
     },
     {
@@ -273,7 +273,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#f86d7c",
+        "foreground": "#ff7585",
         "fontStyle": ""
       }
     },
@@ -340,7 +340,7 @@
       "name": "HTML/XML Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#d4a574"
       }
     },
     {
@@ -353,7 +353,7 @@
         "storage.type.annotation"
       ],
       "settings": {
-        "foreground": "#9B9B9B"
+        "foreground": "#9d8fc7"
       }
     },
     {
@@ -364,8 +364,6 @@
         "meta.delimiter",
         "punctuation.separator",
         "punctuation.terminator"
-       
-       
       ],
       "settings": {
         "foreground": "#cccccc"
@@ -375,7 +373,7 @@
       "name": "Markdown Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#f86d7c",
+        "foreground": "#ff7585",
         "fontStyle": "bold"
       }
     },
@@ -383,7 +381,7 @@
       "name": "Markdown Bold",
       "scope": "markup.bold",
       "settings": {
-        "foreground": "#ffc600",
+        "foreground": "#d4a574",
         "fontStyle": "bold"
       }
     },
@@ -417,37 +415,38 @@
         "fontStyle": "underline italic"
       }
     },
-   
     {
       "name": "Python Keyword Control Italic",
       "scope": "keyword.control.import.python, keyword.control.flow.python",
       "settings": {
-        "foreground": "#f86d7c",
+        "foreground": "#ff7585",
         "fontStyle": "italic"
       }
     },
     {
-        "name": "String interpolation braces",
-        "scope": [
-            "punctuation.definition.template-expression.begin",
-            "punctuation.definition.template-expression.end",
-            "punctuation.section.embedded.begin",
-            "punctuation.section.embedded.end"
-        ],
-        "settings": {
-            "foreground": "#f86d7c"
-        }
+      "name": "String interpolation braces",
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        "punctuation.section.embedded.begin",
+        "punctuation.section.embedded.end"
+      ],
+      "settings": {
+        "foreground": "#ff7585"
+      }
     },
     {
-        "name": "Reset JavaScript string interpolation expression to default",
-        "scope": ["meta.template.expression"],
-        "settings": {
-            "foreground": "#cccccc"
-        }
+      "name": "Reset JavaScript string interpolation expression to default",
+      "scope": [
+        "meta.template.expression"
+      ],
+      "settings": {
+        "foreground": "#cccccc"
+      }
     }
   ],
   "semanticTokenColors": {
-    "enumMember": "#ffc600",
+    "enumMember": "#d4a574",
     "variable.declaration.local": {
       "foreground": "#cccccc"
     },
@@ -461,23 +460,22 @@
     "enum": "#9CDCFE",
     "typeParameter": "#9CDCFE",
     "function": {
-        "foreground": "#fdfbac"
+      "foreground": "#fdfbac"
     },
     "method": {
-        "foreground": "#fdfbac"
+      "foreground": "#fdfbac"
     },
     "namespace": "#cccccc",
-    "macro": "#9B9B9B",
-    "keyword": "#f86d7c",
-    "string": "#adf195",
-    "number": "#ffc600",
-    "regexp": "#adf195",
+    "macro": "#9d8fc7",
+    "keyword": "#ff7585",
+    "string": "#a3d99b",
+    "number": "#d4a574",
+    "regexp": "#a3d99b",
     "operator": "#cccccc",
     "comment": {
-      "foreground": "#666666",
+      "foreground": "#6e6e6e",
       "italic": true
     },
-   
     "variable.readonly": "#cccccc",
     "variable.static": "#cccccc",
     "variable.global": "#cccccc"
