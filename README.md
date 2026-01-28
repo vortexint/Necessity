@@ -2,9 +2,8 @@
 
 Much needed color theme focused on code readability.
 
-⬇️⬇️⬇️ Has 3 Color themes  ⬇️⬇️⬇️
+⬇️⬇️⬇️ Has 2 Variants  ⬇️⬇️⬇️
 
-- **Necessity** - *Easy on the eyes*![](demo/necessity.png)
 - **Necessity AAA** - *Enhanced contrast*![](demo/necessity-aaa.png)
 - **Necessity Light**![](demo/necessity-light.png)
 
